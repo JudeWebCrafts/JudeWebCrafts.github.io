@@ -1,0 +1,40 @@
+/* Custom CSS for Jude WebCrafts Portfolio */
+
+/* Set background color */
+body {
+    background-color: #f2f2f2; /* Light grey background */
+    color: #003b46; /* Dark navy text color */
+    margin: 0; /* Remove default margin */
+    padding: 20px; /* Add padding for spacing */
+}
+
+/* Header styles */
+.site-header {
+    background-color: #006d77; /* Teal background for header */
+    color: #ffffff; /* White text color */
+    padding: 10px 20px; /* Padding for header */
+}
+
+/* Logo styles */
+.site-header img {
+    max-width: 100%; /* Ensure logo fits within header */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Project links */
+a {
+    color: #0077b6; /* Light blue for links */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+/* Footer styles */
+.site-footer {
+    background-color: #003b46; /* Dark navy footer */
+    color: #f2f2f2; /* Light grey text in footer */
+    padding: 10px; /* Padding for footer */
+    text-align: center; /* Center footer text */
+}
