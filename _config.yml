@@ -16,8 +16,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-# Layout for the homepage
----
-layout: default
-title: Jude WebCrafts Portfolio
----
+# Additional configuration for colors
+theme_color: "#006d77"  # Example accent color (teal)
+background_color: "#f2f2f2"  # Example background color (light grey)
+text_color: "#003b46"  # Example text color (dark navy)
