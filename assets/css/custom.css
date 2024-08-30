@@ -1,0 +1,49 @@
+/* Custom CSS for GitHub Pages */
+
+/* Background color */
+body {
+    background-color: #f2f2f2; /* Soft grey for a clean backdrop */
+    color: #003b46; /* Dark navy blue for text */
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #006d77; /* Teal for headings */
+}
+
+/* Links */
+a {
+    color: #0077b6; /* Light blue for links */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+    color: darken(#0077b6, 15%); /* Darken link color on hover */
+}
+
+/* Navigation bar */
+.site-header {
+    background-color: #003b46; /* Dark navy blue */
+}
+
+.site-header .site-title, .site-header nav a {
+    color: #fff; /* Light text color */
+}
+
+/* Buttons */
+.btn {
+    background-color: #e63946; /* Red for buttons */
+    color: #fff; /* White text */
+}
+
+.btn:hover {
+    background-color: darken(#e63946, 10%); /* Darker red on hover */
+}
+
+/* Footer */
+.site-footer {
+    background-color: #003b46; /* Match navigation bar */
+    color: #f2f2f2; /* Light grey text */
+    border-top: 2px solid #006d77; /* Teal border at the top */
+}
