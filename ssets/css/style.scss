@@ -69,3 +69,54 @@ a {
     color: $footer-text-color;
     border-top: 2px solid $footer-border-color;
 }
+// Background color
+body {
+  background-color: $body-bg-color;
+}
+
+// Text color
+body {
+  color: $body-text-color;
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  color: $header-bg-color;
+}
+
+// Links
+a {
+  color: $link-color;
+  text-decoration: none;
+  
+  &:hover {
+    color: $link-hover-color;
+    text-decoration: underline;
+  }
+}
+
+// Navigation bar
+.site-header {
+  background-color: $nav-bar-bg-color;
+  
+  .site-title, nav a {
+    color: $nav-bar-text-color;
+  }
+}
+
+// Buttons
+.btn {
+  background-color: $btn-primary-color;
+  color: #fff;
+  
+  &:hover {
+    background-color: $btn-primary-hover-color;
+  }
+}
+
+// Footer
+.site-footer {
+  background-color: $footer-bg-color;
+  color: $footer-text-color;
+  border-top: 1px solid $footer-border-color;
+}
