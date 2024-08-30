@@ -1,1 +1,71 @@
+---
+---
 
+// Custom SCSS for GitHub Pages
+
+// Background color
+$body-bg-color: #f2f2f2; // Soft grey for a clean backdrop
+$body-text-color: #003b46; // Dark navy blue for text
+
+// Headings
+$header-color: #006d77; // Teal for headings
+
+// Links
+$link-color: #0077b6; // Light blue for links
+$link-hover-color: darken($link-color, 15%); // Darken link color on hover
+
+// Navigation bar
+$nav-bar-bg-color: #003b46; // Dark navy blue for navigation
+$nav-bar-text-color: #fff; // Light text color for navigation
+
+// Buttons
+$btn-primary-color: #e63946; // Red for buttons
+$btn-primary-hover-color: darken($btn-primary-color, 10%); // Darker red on hover
+
+// Footer
+$footer-bg-color: $nav-bar-bg-color; // Match footer to navigation bar
+$footer-text-color: lighten($nav-bar-bg-color, 50%); // Light grey text for footer
+$footer-border-color: $header-color; // Teal border at the top of the footer
+
+// Apply styles
+body {
+    background-color: $body-bg-color;
+    color: $body-text-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: $header-color;
+}
+
+a {
+    color: $link-color;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+        color: $link-hover-color;
+    }
+}
+
+.site-header {
+    background-color: $nav-bar-bg-color;
+
+    .site-title, nav a {
+        color: $nav-bar-text-color;
+    }
+}
+
+.btn {
+    background-color: $btn-primary-color;
+    color: #fff;
+
+    &:hover {
+        background-color: $btn-primary-hover-color;
+    }
+}
+
+.site-footer {
+    background-color: $footer-bg-color;
+    color: $footer-text-color;
+    border-top: 2px solid $footer-border-color;
+}
