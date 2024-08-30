@@ -1,0 +1,23 @@
+# Configuration for Jude WebCrafts Portfolio
+
+# Title of the site
+title: Jude WebCrafts Portfolio
+
+# Logo file path
+logo: /assets/images/logo.png  # Replace with your actual logo file name
+
+# Description of the site
+description: A portfolio showcasing web design projects by Jude Odeda
+
+# Remote theme configuration
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins required for the remote theme
+plugins:
+  - jekyll-remote-theme
+
+# Layout for the homepage
+---
+layout: default
+title: Jude WebCrafts Portfolio
+---
