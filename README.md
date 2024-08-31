@@ -1,5 +1,3 @@
-
-
 I'm excited to share a selection of websites I've designed and developed for my clients. These projects showcase my expertise in creating visually appealing and user-friendly websites tailored to specific business needs across various web development platforms.
 
 ## __Featured Projects__
@@ -16,7 +14,7 @@ I deliver high-quality, customized websites that meet your business needs while 
 
 ## __Contact Information__
 
-**[Jude Odeda](https://www.linkedin.com/in/jude-odeda-09a6b424a)**  
+**[Jude Odeda (LinkedIn Profile)](https://www.linkedin.com/in/jude-odeda-09a6b424a)**  
 Phone: +1 929-333-4577  
 Email: [judeodeda1@gmail.com](mailto:judeodeda1@gmail.com)
 
