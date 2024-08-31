@@ -1,6 +1,8 @@
 # JudeWebCrafts Portfolio
 
-Welcome to my professional portfolio, where I showcase a selection of websites I've designed and developed. My expertise spans various web development platforms, specializing in visually appealing and user-friendly websites tailored to specific business needs.
+## Hello, I'm Jude!
+
+I'm excited to share a selection of websites I've designed and developed for my clients. These projects showcase my expertise in creating visually appealing and user-friendly websites tailored to specific business needs across various web development platforms.
 
 ## __Featured Projects__
 
