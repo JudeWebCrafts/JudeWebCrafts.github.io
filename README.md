@@ -1,4 +1,4 @@
-## Hello, I'm Jude!
+
 
 I'm excited to share a selection of websites I've designed and developed for my clients. These projects showcase my expertise in creating visually appealing and user-friendly websites tailored to specific business needs across various web development platforms.
 
