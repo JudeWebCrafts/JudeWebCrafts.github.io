@@ -1,5 +1,3 @@
-# JudeWebCrafts Portfolio
-
 ## Hello, I'm Jude!
 
 I'm excited to share a selection of websites I've designed and developed for my clients. These projects showcase my expertise in creating visually appealing and user-friendly websites tailored to specific business needs across various web development platforms.
@@ -18,8 +16,9 @@ I deliver high-quality, customized websites that meet your business needs while 
 
 ## __Contact Information__
 
-**Jude Odeda**  
+**[Jude Odeda](https://www.linkedin.com/in/jude-odeda-09a6b424a)**  
 Phone: +1 929-333-4577  
 Email: [judeodeda1@gmail.com](mailto:judeodeda1@gmail.com)  
+LinkedIn Profile: [View my LinkedIn](https://www.linkedin.com/in/jude-odeda-09a6b424a)
 
 Feel free to reach out for inquiries or collaborations!
