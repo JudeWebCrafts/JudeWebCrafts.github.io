@@ -18,7 +18,6 @@ I deliver high-quality, customized websites that meet your business needs while 
 
 **[Jude Odeda](https://www.linkedin.com/in/jude-odeda-09a6b424a)**  
 Phone: +1 929-333-4577  
-Email: [judeodeda1@gmail.com](mailto:judeodeda1@gmail.com)  
-LinkedIn Profile: [View my LinkedIn](https://www.linkedin.com/in/jude-odeda-09a6b424a)
+Email: [judeodeda1@gmail.com](mailto:judeodeda1@gmail.com)
 
 Feel free to reach out for inquiries or collaborations!
