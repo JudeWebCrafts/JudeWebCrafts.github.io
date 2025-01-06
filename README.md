@@ -6,7 +6,8 @@ I'm excited to share a selection of websites I've designed and developed for my 
 - [fitnessstyle.co](https://fitnessstyle.co) - A fitness and gym apparel store.  
 - [project-ares.net](https://project-ares.net) - A platform dedicated to showcasing art and games.  
 - [ramosenterprise.org](https://ramosenterprise.org) - A commercial cleaning company website.  
-- [theamadeusgrp.com](https://theamadeusgrp.com) - A consultancy firm specializing in logistics, transportation, and minority business certification.  
+- [theamadeusgrp.com](https://theamadeusgrp.com) - A consultancy firm specializing in logistics, transportation, and minority business certification.
+- jrconcretereinforcement.com - A polished and professional website for a construction firm specializing in concrete reinforcement and structural solutions, showcasing services and expertise. 
 
 ## __Professional Services__
 
